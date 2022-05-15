@@ -1,0 +1,50 @@
+
+Event: {
+	Name: UBC’s alumni’s meetup
+	Type: Party
+	Date: Sept 24
+	Start time: 20:00
+	End time: 22:00
+	Place: UBC
+	Color: Blue
+	Overlap: No
+	Priority: Not Important
+}
+
+Event: {
+	Name: 410 Lecture
+	Type: Class
+    Date: Sept 24
+	Start time: 12:00
+	End time: 13:00
+	Color: Yellow
+	Place: UBC
+	Overlap: No
+	Priority: Important
+}
+
+Event: {
+Name: Buy party supplies
+Type: Other
+Date: Sept 24
+Start time: 8:00
+End time: 9:00
+Color: Red
+Overlap: Yes
+Priority: Not Important
+Place: 123 Main St.
+}
+
+Type: {
+Name: Birthday Party!
+Place: UBC
+Color: Blue
+Overlap: Yes
+Priority: Important
+}
+
+Type: {
+    Name: Homework
+    Place: Home
+    Priority: Important
+}
